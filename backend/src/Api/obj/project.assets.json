@@ -5559,11 +5559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rreyes\\OneDrive - IWS Services S de RL de CV\\Documentos\\Tortiproductos\\Torti\\amazonshop\\backend\\src\\Api\\Ecommerce.Api.csproj",
+      "projectUniqueName": "C:\\Users\\rreyes\\Videos\\Tori\\backend\\src\\api\\Ecommerce.Api.csproj",
       "projectName": "Ecommerce.Api",
-      "projectPath": "C:\\Users\\rreyes\\OneDrive - IWS Services S de RL de CV\\Documentos\\Tortiproductos\\Torti\\amazonshop\\backend\\src\\Api\\Ecommerce.Api.csproj",
+      "projectPath": "C:\\Users\\rreyes\\Videos\\Tori\\backend\\src\\api\\Ecommerce.Api.csproj",
       "packagesPath": "C:\\Users\\rreyes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rreyes\\OneDrive - IWS Services S de RL de CV\\Documentos\\Tortiproductos\\Torti\\amazonshop\\backend\\src\\Api\\obj\\",
+      "outputPath": "C:\\Users\\rreyes\\Videos\\Tori\\backend\\src\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rreyes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5580,11 +5580,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\rreyes\\OneDrive - IWS Services S de RL de CV\\Documentos\\Tortiproductos\\Torti\\amazonshop\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
-              "projectPath": "C:\\Users\\rreyes\\OneDrive - IWS Services S de RL de CV\\Documentos\\Tortiproductos\\Torti\\amazonshop\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
+            "C:\\Users\\rreyes\\Videos\\Tori\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj": {
+              "projectPath": "C:\\Users\\rreyes\\Videos\\Tori\\backend\\src\\Core\\Ecommerce.Application\\Ecommerce.Application.csproj"
             },
-            "C:\\Users\\rreyes\\OneDrive - IWS Services S de RL de CV\\Documentos\\Tortiproductos\\Torti\\amazonshop\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\rreyes\\OneDrive - IWS Services S de RL de CV\\Documentos\\Tortiproductos\\Torti\\amazonshop\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj"
+            "C:\\Users\\rreyes\\Videos\\Tori\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\rreyes\\Videos\\Tori\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj"
             }
           }
         }

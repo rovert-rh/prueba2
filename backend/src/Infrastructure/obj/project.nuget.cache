@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/y/oGzQtvUQH+8bXr8hNReGQpFYhN8Lh7wngKcJeqcxg8/SlLt3TObGQxQCaSRyKeiVPeogWux/cfwD4Hxau6w==",
+  "dgSpecHash": "Va4P5CDPCevD5RKlL7CPMgXhzHM0Kdt8VaNBBW1Fn6dl0bveEKnhu1c7rHgugh0uvMpOI9dsp4E3MEUfOItcNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rreyes\\OneDrive - IWS Services S de RL de CV\\Documentos\\Tortiproductos\\Torti\\amazonshop\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\rreyes\\Videos\\Tori\\backend\\src\\Infrastructure\\Ecommerce.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rreyes\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\rreyes\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

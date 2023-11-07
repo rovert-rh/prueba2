@@ -1,0 +1,12 @@
+C:\Users\rreyes\Videos\Tori\backend\src\Core\Ecommerce.Domain\bin\Release\net7.0\Ecommerce.Domain.deps.json
+C:\Users\rreyes\Videos\Tori\backend\src\Core\Ecommerce.Domain\bin\Release\net7.0\Ecommerce.Domain.dll
+C:\Users\rreyes\Videos\Tori\backend\src\Core\Ecommerce.Domain\bin\Release\net7.0\Ecommerce.Domain.pdb
+C:\Users\rreyes\Videos\Tori\backend\src\Core\Ecommerce.Domain\obj\Release\net7.0\Ecommerce.Domain.csproj.AssemblyReference.cache
+C:\Users\rreyes\Videos\Tori\backend\src\Core\Ecommerce.Domain\obj\Release\net7.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rreyes\Videos\Tori\backend\src\Core\Ecommerce.Domain\obj\Release\net7.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\rreyes\Videos\Tori\backend\src\Core\Ecommerce.Domain\obj\Release\net7.0\Ecommerce.Domain.AssemblyInfo.cs
+C:\Users\rreyes\Videos\Tori\backend\src\Core\Ecommerce.Domain\obj\Release\net7.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rreyes\Videos\Tori\backend\src\Core\Ecommerce.Domain\obj\Release\net7.0\Ecommerce.Domain.dll
+C:\Users\rreyes\Videos\Tori\backend\src\Core\Ecommerce.Domain\obj\Release\net7.0\refint\Ecommerce.Domain.dll
+C:\Users\rreyes\Videos\Tori\backend\src\Core\Ecommerce.Domain\obj\Release\net7.0\Ecommerce.Domain.pdb
+C:\Users\rreyes\Videos\Tori\backend\src\Core\Ecommerce.Domain\obj\Release\net7.0\ref\Ecommerce.Domain.dll

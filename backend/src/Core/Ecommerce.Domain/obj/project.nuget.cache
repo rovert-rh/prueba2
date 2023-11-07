@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "COicGmWNNmP2AWGvNIEActH8znYQwA8R8fXRPQAxvHtW/0p5lT7+SeSE+xhACuY+ziqeH5obdpgXcXmrlZCAqg==",
+  "dgSpecHash": "On5t72HBVHUt2x8ScLQFwUkLXmk6x97g8wgEoomWUXglOqjwDZ64dKn8wbonIOcMvw2wM9+7ub9KndJLoVWiug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rreyes\\OneDrive - IWS Services S de RL de CV\\Documentos\\Tortiproductos\\Torti\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+  "projectFilePath": "C:\\Users\\rreyes\\Videos\\Tori\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rreyes\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\rreyes\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

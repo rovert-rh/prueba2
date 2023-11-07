@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rreyes\\OneDrive - IWS Services S de RL de CV\\Documentos\\Tortiproductos\\Torti\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {}
+    "C:\\Users\\rreyes\\Videos\\Tori\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rreyes\\OneDrive - IWS Services S de RL de CV\\Documentos\\Tortiproductos\\Torti\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
+    "C:\\Users\\rreyes\\Videos\\Tori\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rreyes\\OneDrive - IWS Services S de RL de CV\\Documentos\\Tortiproductos\\Torti\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\rreyes\\Videos\\Tori\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "projectName": "Ecommerce.Domain",
-        "projectPath": "C:\\Users\\rreyes\\OneDrive - IWS Services S de RL de CV\\Documentos\\Tortiproductos\\Torti\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
+        "projectPath": "C:\\Users\\rreyes\\Videos\\Tori\\backend\\src\\Core\\Ecommerce.Domain\\Ecommerce.Domain.csproj",
         "packagesPath": "C:\\Users\\rreyes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rreyes\\OneDrive - IWS Services S de RL de CV\\Documentos\\Tortiproductos\\Torti\\amazonshop\\backend\\src\\Core\\Ecommerce.Domain\\obj\\",
+        "outputPath": "C:\\Users\\rreyes\\Videos\\Tori\\backend\\src\\Core\\Ecommerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rreyes\\AppData\\Roaming\\NuGet\\NuGet.Config",

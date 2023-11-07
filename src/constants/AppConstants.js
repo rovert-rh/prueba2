@@ -1,12 +1,12 @@
 const prod = {
     url: {
-        API_URL: 'https://myapp.herokuapp.com'
+        API_URL: 'tortiback.azurewebsites.net'
     }
 };
 
 const dev = {
   url: {
-    API_URL: 'http://localhost:5000'
+    API_URL: 'tortiback.azurewebsites.net'
   }   
 };
 

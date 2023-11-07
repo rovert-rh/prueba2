@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-Ecommerce.Api",
+      "appliesTo": "src/Api/Ecommerce.Api.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
